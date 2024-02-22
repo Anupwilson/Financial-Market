@@ -7,9 +7,13 @@ MARKET ANOMALY DETECTION:
 Market Anomaly Detection is the process of identifying and analyzing unusual patterns in the behaviour of stocks in the stock market that cannot be explained by traditional market theories. One approach to Market Anomaly Detection is to analyze stock data and tweets. This process starts with data collection from various sources, followed by preprocessing,sentiment analysis, feature engineering, model development, training and evaluation, iterative refinement, model deployment, Analysis and Conclusions:, and conclusion and recommendations.
 
   There are several considerations that should be followed when implementing Market Anomaly Detection:
+  
 ❖	It's important to consider the data's quantity and quality. The model will perform better the more data you have.
+
 ❖	It's crucial to choose the right machine learning algorithm. For different datasets, various algorithms perform better.
+
 ❖	Before implementing the model in production, it is essential to assess how well it performs on a held-out test set. Overfitting will be avoided as a result.
+
 ❖	To make sure the model is still operating successfully, it should be monitored and updated frequently.
 
 The steps that are involved in Market Anomaly Detection:
