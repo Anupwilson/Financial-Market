@@ -1,5 +1,7 @@
 # Financial-Market
 Integrating Sentiment Analysis and  Machine Learning for Robust Stock  Price Prediction: A Comprehensive  Study
+
+
 MARKET ANOMALY DETECTION:
 
 Market Anomaly Detection is the process of identifying and analyzing unusual patterns in the behaviour of stocks in the stock market that cannot be explained by traditional market theories. One approach to Market Anomaly Detection is to analyze stock data and tweets. This process starts with data collection from various sources, followed by preprocessing,sentiment analysis, feature engineering, model development, training and evaluation, iterative refinement, model deployment, Analysis and Conclusions:, and conclusion and recommendations.
